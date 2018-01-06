@@ -1,8 +1,8 @@
 # NumPy Arrays
 
-NumPy Arrays comes in two types i.e 1D and 2D
+* NumPy Arrays comes in two types i.e 1D and 2D
 
-#Creating NumPy array using python object such as list
+Creating NumPy array using python object such as list
 
 import numpy as np
 
